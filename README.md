@@ -1,10 +1,10 @@
 ### Hi there, I'm Luiz Lelis 👋
 
-🔭 I’m currently working on Avenue Code
+💻 I’m currently working on Avenue Code
 
-🌱 I’m currently working as a back-end developer (.NET Core)
+🔙 I’m currently working as a back-end developer (.NET Core)
 
-## To know more about me: <a><img align="left" width="250" height="250" src="https://github.com/luizhlelis/luizhlelis/blob/master/lelis_octocat.jpeg?raw=true"></a> 
+## To know more about me: <a><img align="left" width="280" height="280" src="https://github.com/luizhlelis/luizhlelis/blob/master/lelis_octocat.jpeg?raw=true"></a> 
 Sharing updates on <a href="https://www.linkedin.com/in/luizhlelis/">LinkedIn</a> 💼
 
 
