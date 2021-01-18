@@ -1,6 +1,6 @@
 ### Hi there, I'm Luiz Lelis 👋
 
-💻 I’m currently working on Avenue Code
+💻 I’m currently working on Juntos Somos Mais
 
 🔙 I’m currently working as a back-end developer (.NET Core)
 
