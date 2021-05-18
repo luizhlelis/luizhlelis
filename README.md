@@ -21,6 +21,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<br>
+
 <a href="https://dev.to/luizhlelis">
 <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" width="100" height="28"/>
 </a>&nbsp;&nbsp;
