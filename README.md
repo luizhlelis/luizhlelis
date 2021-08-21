@@ -1,8 +1,14 @@
 # Hi there, I'm Luiz Lelis 👋
 
+<style>
+td, th, tr {
+   border: none!important;
+}
+</style>
+
 <table>
     <tr>
-        <td width="240" border-right="4px">
+        <td border-right="4px">
           <img align="left" width="240" height="340" src="https://github.com/luizhlelis/luizhlelis/blob/master/lelis-octocat.png?raw=true">
         </td>
         <td>
@@ -23,7 +29,7 @@
 
 <table>
   <tr>
-    <td width="240">
+    <td>
       <a href="https://stackoverflow.com/users/5610329/luiz-lelis"><img src="https://stackoverflow.com/users/flair/5610329.png?theme=dark" width="208" height="58" alt="profile for Luiz Lelis at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Luiz Lelis at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
       <a href="https://pt.stackoverflow.com/users/224136/luiz-lelis"><img src="https://pt.stackoverflow.com/users/flair/224136.png?theme=dark" width="208" height="58" alt="perfil de Luiz Lelis em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Luiz Lelis em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
       <a href="https://twitter.com/luizhlelis">
@@ -38,10 +44,10 @@
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-      <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=luizhlelis&show_icons=true&layout=compact&theme=gotham" />
+      <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luizhlelis&show_icons=true&layout=compact&theme=gotham" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
-        <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlelis&layout=compact&theme=gotham">
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlelis&layout=compact&theme=gotham">
       </a>
     </td>
   </tr>
