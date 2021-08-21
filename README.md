@@ -37,7 +37,7 @@
   <a href="https://pt.stackoverflow.com/users/224136/luiz-lelis"><img src="https://pt.stackoverflow.com/users/flair/224136.png?theme=dark" width="208" height="58" alt="perfil de Luiz Lelis em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas" title="perfil de Luiz Lelis em Stack Overflow em Portugu&#234;s, Perguntas e respostas para programadores profissionais e entusiastas"></a>
 </p>
 
-<br><br><br><br>
+<br>
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
