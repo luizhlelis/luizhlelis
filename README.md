@@ -1,10 +1,9 @@
-# Hi there, I'm Luiz Lelis 👋
-
 <style>
 td, th, tr {
-   border: none!important;
+  border: none!important;
 }
 </style>
+# Hi there, I'm Luiz Lelis 👋
 
 <table>
     <tr>
