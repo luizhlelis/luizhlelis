@@ -42,9 +42,9 @@
 
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="About Me">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=luizhlelis&show_icons=true&layout=compact&theme=gotham"/>
+  <img height=175 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizhlelis&show_icons=true&layout=compact&theme=gotham"/>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Top Langs">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlelis&layout=compact&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizhlelis&layout=compact&theme=gotham">
   </a>
   </a>
 </p>
